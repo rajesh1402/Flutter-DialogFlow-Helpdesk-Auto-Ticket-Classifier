@@ -13,9 +13,7 @@ Current release of the Flutter App supports
 Future releases will split the App into two - One for the End Customer (Ticket Submission workflow) and the Second for the Helpdesk Team Manager (for continuous training and configuring auto-classification and assignment of ticket to the right team.
 
 ## Screenshots
-![](./assets/gif/auto_ticket_classifier.gif)
-
-
+<img src="./assets/gif/auto_ticket_classifier.gif" height="450" width="250">
 
 ## Credits
 Flutter-Dialogflow Integration:
